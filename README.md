@@ -1,16 +1,32 @@
-### Hi there 👋
+# Hi there 👋  I'm Alex and I'm pleased to meet you 😄
+
+## **I'm a Cloud Tech Lead and Udemy instructor.**
+ - 💾 I have a Masters degree in Computer science
+ - 🛠️ Over 10 years of experience in software engineering
+ - 👔 On Udemy, I teach AWS and Web development - TypeScript, Java, React, Software testing
+ - 🎸 In my free time, I like to play the guitar
 
 
-**alexhddev/alexhddev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## **Let's connect** 👋 &nbsp;
 
-Here are some ideas to get you started:
+<h3 align="left">
+<a href="https://www.youtube.com/@concisedeveloper/videos" target="_blank"><img src="https://img.icons8.com/color/344/youtube-play.png" alt="youtube" width="60" height="60"/></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
+## **Check out my Udemy courses**
+
+| No  | Course link with discount | 
+| --- | ----------- | 
+| 1 | [AWS & Typescript Masterclass - CDK V2, Serverless, React](https://www.udemy.com/course/aws-typescript-cdk-serverless-react/?couponCode=SEPT2023) |
+| 2 | [Unit Testing for Typescript & NodeJs Developers with Jest](https://www.udemy.com/course/unit-testing-typescript-nodejs/?couponCode=SEPT2023) |
+| 3 | [TypeScript 5 for developers](https://www.udemy.com/course/typescript-full-stack-programming/?couponCode=SEPT2023) |
+| 4 | [NPM - Node package manager - Quickstart & Advanced](https://www.udemy.com/course/npm-node-package-manager-course/?couponCode=SEPT2023) |
+
+
+## **My Udemy Profile**
+- 👉🏻 [Udemy Profile for Alex HD](https://www.udemy.com/user/alexhorea/)
+
+<br>
+<br>
+
+<h2 align="center"> <img src="https://komarev.com/ghpvc/?username=alexhddev" alt="Alex HD" /> <h2>
