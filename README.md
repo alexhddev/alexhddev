@@ -10,7 +10,7 @@
 ## **Let's connect** 👋 &nbsp;
 
 <h3 align="left">
-<a href="https://www.linkedin.com/in/alex-hd-847180292/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin" width="60" height="60"/></a>
+<a href="https://www.linkedin.com/in/horea-d-02598a137/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin" width="60" height="60"/></a>
 <a href="https://www.youtube.com/@concisedeveloper/videos" target="_blank"><img src="https://img.icons8.com/color/344/youtube-play.png" alt="youtube" width="60" height="60"/></a>
 
 
