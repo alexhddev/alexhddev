@@ -25,7 +25,7 @@
 | 5 | [NPM - Node package manager - Quickstart & Advanced](https://www.udemy.com/course/npm-node-package-manager-course/?couponCode=MAR2024) |
 | 6 | [Mastering Visual Studio Code](https://www.udemy.com/course/mastering-visual-studio-code/?couponCode=MAR2024) |
 | 7 | [GitHub Copilot - The Complete Guide](https://www.udemy.com/course/github-copilot-the-complete-guide/?couponCode=MAR2024) |
-| 8 | [AI for NodeJs devs: OpenAI, ChatGPT, LangChain](https://www.udemy.com/course/mastering-visual-studio-code/?couponCode=MAR2024) |
+| 8 | [AI for NodeJs devs: OpenAI, ChatGPT, LangChain](https://www.udemy.com/course/ai-nodejs-openai-chatgpt-langchain-typescript/?couponCode=MAR2024) |
 
 
 ## **My Udemy Profile**
