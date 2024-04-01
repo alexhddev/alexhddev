@@ -18,14 +18,14 @@
 
 | No  | Course link with discount | 
 | --- | ----------- | 
-| 1 | [AWS & Typescript Masterclass - CDK V2, Serverless, React](https://www.udemy.com/course/aws-typescript-cdk-serverless-react/?couponCode=MAR2024) |
-| 2 | [AWS CDK for professionals (Python and TypeScript)](https://www.udemy.com/course/aws-cdk-for-professionals/?couponCode=MAR2024) |
-| 3 | [Unit Testing for Typescript & NodeJs Developers with Jest](https://www.udemy.com/course/unit-testing-typescript-nodejs/?couponCode=MAR2024) |
-| 4 | [TypeScript 5 for developers](https://www.udemy.com/course/typescript-full-stack-programming/?couponCode=MAR2024) |
-| 5 | [NPM - Node package manager - Quickstart & Advanced](https://www.udemy.com/course/npm-node-package-manager-course/?couponCode=MAR2024) |
-| 6 | [Mastering Visual Studio Code](https://www.udemy.com/course/mastering-visual-studio-code/?couponCode=MAR2024) |
-| 7 | [GitHub Copilot - The Complete Guide](https://www.udemy.com/course/github-copilot-the-complete-guide/?couponCode=MAR2024) |
-| 8 | [AI for NodeJs devs: OpenAI, ChatGPT, LangChain](https://www.udemy.com/course/ai-nodejs-openai-chatgpt-langchain-typescript/?couponCode=MAR2024) |
+| 1 | [AWS & Typescript Masterclass - CDK V2, Serverless, React](https://www.udemy.com/course/aws-typescript-cdk-serverless-react/?couponCode=APR2024) |
+| 2 | [AWS CDK for professionals (Python and TypeScript)](https://www.udemy.com/course/aws-cdk-for-professionals/?couponCode=APR2024) |
+| 3 | [Unit Testing for Typescript & NodeJs Developers with Jest](https://www.udemy.com/course/unit-testing-typescript-nodejs/?couponCode=APR2024) |
+| 4 | [TypeScript 5 for developers](https://www.udemy.com/course/typescript-full-stack-programming/?couponCode=APR2024) |
+| 5 | [NPM - Node package manager - Quickstart & Advanced](https://www.udemy.com/course/npm-node-package-manager-course/?couponCode=APR2024) |
+| 6 | [Mastering Visual Studio Code](https://www.udemy.com/course/mastering-visual-studio-code/?couponCode=APR2024) |
+| 7 | [GitHub Copilot - The Complete Guide](https://www.udemy.com/course/github-copilot-the-complete-guide/?couponCode=APR2024) |
+| 8 | [AI for NodeJs devs: OpenAI, ChatGPT, LangChain](https://www.udemy.com/course/ai-nodejs-openai-chatgpt-langchain-typescript/?couponCode=APR2024) |
 
 
 ## **My Udemy Profile**
