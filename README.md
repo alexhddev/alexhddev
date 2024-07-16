@@ -18,14 +18,14 @@
 
 | No  | Course link with discount | 
 | --- | ----------- | 
-| 1 | [AWS & Typescript Masterclass - CDK V2, Serverless, React](https://www.udemy.com/course/aws-typescript-cdk-serverless-react/?couponCode=MAY2024) |
-| 2 | [AWS CDK for professionals (Python and TypeScript)](https://www.udemy.com/course/aws-cdk-for-professionals/?couponCode=MAY2024) |
-| 3 | [Unit Testing for Typescript & NodeJs Developers with Jest](https://www.udemy.com/course/unit-testing-typescript-nodejs/?couponCode=MAY2024) |
-| 4 | [TypeScript 5 for developers](https://www.udemy.com/course/typescript-full-stack-programming/?couponCode=MAY2024) |
-| 5 | [Mastering Visual Studio Code](https://www.udemy.com/course/mastering-visual-studio-code/?couponCode=MAY2024) |
-| 6 | [GitHub Copilot - The Complete Guide](https://www.udemy.com/course/github-copilot-the-complete-guide/?couponCode=MAY2024) |
-| 7 | [AI for NodeJs devs: OpenAI, ChatGPT, LangChain](https://www.udemy.com/course/ai-nodejs-openai-chatgpt-langchain-typescript/?couponCode=MAY2024) |
-| 8 | [Amazon Bedrock - The Complete Guide to AWS Generative AI](https://www.udemy.com/course/amazon-bedrock-aws-generative-ai/?couponCode=STARTER) |
+| 1 | [AWS & Typescript Masterclass - CDK V2, Serverless, React](https://www.udemy.com/course/aws-typescript-cdk-serverless-react/?couponCode=JUL2024) |
+| 2 | [AWS CDK for professionals (Python and TypeScript)](https://www.udemy.com/course/aws-cdk-for-professionals/?couponCode=JUL2024) |
+| 3 | [Unit Testing for Typescript & NodeJs Developers with Jest](https://www.udemy.com/course/unit-testing-typescript-nodejs/?couponCode=JUL2024) |
+| 4 | [TypeScript 5 for developers](https://www.udemy.com/course/typescript-full-stack-programming/?couponCode=JUL2024) |
+| 5 | [Mastering Visual Studio Code](https://www.udemy.com/course/mastering-visual-studio-code/?couponCode=JUL2024) |
+| 6 | [GitHub Copilot - The Complete Guide](https://www.udemy.com/course/github-copilot-the-complete-guide/?couponCode=JUL2024) |
+| 7 | [AI for NodeJs devs: OpenAI, ChatGPT, LangChain](https://www.udemy.com/course/ai-nodejs-openai-chatgpt-langchain-typescript/?couponCode=JUL2024) |
+| 8 | [Amazon Bedrock - The Complete Guide to AWS Generative AI](https://www.udemy.com/course/amazon-bedrock-aws-generative-ai/?couponCode=JUL2024) |
 
 
 ## **My Udemy Profile**
