@@ -18,15 +18,15 @@
 
 | No  | Course link with discount | 
 | --- | ----------- | 
-| 1 | [AWS & Typescript Masterclass - CDK V2, Serverless, React](https://www.udemy.com/course/aws-typescript-cdk-serverless-react/?couponCode=JAN2025) |
-| 2 | [AWS CDK for professionals (Python and TypeScript)](https://www.udemy.com/course/aws-cdk-for-professionals/?couponCode=JAN2025) |
-| 3 | [Unit Testing for Typescript & NodeJs Developers with Jest](https://www.udemy.com/course/unit-testing-typescript-nodejs/?couponCode=JAN2025) |
-| 4 | [TypeScript 5 for developers](https://www.udemy.com/course/typescript-full-stack-programming/?couponCode=JAN2025) |
-| 5 | [Mastering Visual Studio Code](https://www.udemy.com/course/mastering-visual-studio-code/?couponCode=JAN2025) |
-| 6 | [GitHub Copilot - The Complete Guide](https://www.udemy.com/course/github-copilot-the-complete-guide/?couponCode=JAN2025) |
-| 7 | [AI for NodeJs devs: OpenAI, ChatGPT, LangChain](https://www.udemy.com/course/ai-nodejs-openai-chatgpt-langchain-typescript/?couponCode=JAN2025) |
-| 8 | [Amazon Bedrock - The Complete Guide to AWS Generative AI](https://www.udemy.com/course/amazon-bedrock-aws-generative-ai/?couponCode=JAN2025) |
-| 9 | [Amazon Q Developer for Programmers and DevOps AWS AI coding](https://www.udemy.com/course/amazon-q-developer-aws-ai/?couponCode=JAN2025) |
+| 1 | [AWS & Typescript Masterclass - CDK V2, Serverless, React](https://www.udemy.com/course/aws-typescript-cdk-serverless-react/?couponCode=FEB2025) |
+| 2 | [AWS CDK for professionals (Python and TypeScript)](https://www.udemy.com/course/aws-cdk-for-professionals/?couponCode=FEB2025) |
+| 3 | [Unit Testing for Typescript & NodeJs Developers with Jest](https://www.udemy.com/course/unit-testing-typescript-nodejs/?couponCode=FEB2025) |
+| 4 | [TypeScript 5 for developers](https://www.udemy.com/course/typescript-full-stack-programming/?couponCode=FEB2025) |
+| 5 | [Mastering Visual Studio Code](https://www.udemy.com/course/mastering-visual-studio-code/?couponCode=FEB2025) |
+| 6 | [GitHub Copilot - The Complete Guide](https://www.udemy.com/course/github-copilot-the-complete-guide/?couponCode=FEB2025) |
+| 7 | [AI for NodeJs devs: OpenAI, ChatGPT, LangChain](https://www.udemy.com/course/ai-nodejs-openai-chatgpt-langchain-typescript/?couponCode=FEB2025) |
+| 8 | [Amazon Bedrock - The Complete Guide to AWS Generative AI](https://www.udemy.com/course/amazon-bedrock-aws-generative-ai/?couponCode=FEB2025) |
+| 9 | [Amazon Q Developer for Programmers and DevOps AWS AI coding](https://www.udemy.com/course/amazon-q-developer-aws-ai/?couponCode=FEB2025) |
 
 
 ## **My Udemy Profile**
