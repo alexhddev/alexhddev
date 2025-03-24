@@ -28,6 +28,7 @@
 | 8 | [Amazon Bedrock - The Complete Guide to AWS Generative AI](https://www.udemy.com/course/amazon-bedrock-aws-generative-ai/?couponCode=MAR2025) |
 | 9 | [Amazon Q Developer for Programmers and DevOps AWS AI coding](https://www.udemy.com/course/amazon-q-developer-aws-ai/?couponCode=MAR2025) |
 | 10 | [AWS Amplify Gen 2 and AWS Cognito for Developers-TypeScript](https://www.udemy.com/course/aws-amplify-gen-2-cognito-typescript-react/?couponCode=MAR2025) |
+| 10 | [React Testing with Jest / Vitest - TypeScript - 2025](https://www.udemy.com/course/typescript-with-react-jest-testing/?couponCode=MAR2025) |
 
 
 ## **My Udemy Profile**
