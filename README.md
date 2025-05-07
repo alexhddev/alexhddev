@@ -18,17 +18,17 @@
 
 | No  | Course link with discount | 
 | --- | ----------- | 
-| 1 | [AWS & Typescript Masterclass - CDK V2, Serverless, React](https://www.udemy.com/course/aws-typescript-cdk-serverless-react/?couponCode=APR2025) |
-| 2 | [AWS CDK for professionals (Python and TypeScript)](https://www.udemy.com/course/aws-cdk-for-professionals/?couponCode=APR2025) |
-| 3 | [Unit Testing for Typescript & NodeJs Developers with Jest](https://www.udemy.com/course/unit-testing-typescript-nodejs/?couponCode=APR2025) |
-| 4 | [TypeScript 5 for developers](https://www.udemy.com/course/typescript-full-stack-programming/?couponCode=APR2025) |
-| 5 | [Mastering Visual Studio Code](https://www.udemy.com/course/mastering-visual-studio-code/?couponCode=APR2025) |
-| 6 | [GitHub Copilot - The Complete Guide](https://www.udemy.com/course/github-copilot-the-complete-guide/?couponCode=APR2025) |
-| 7 | [AI for NodeJs devs: OpenAI, ChatGPT, LangChain](https://www.udemy.com/course/ai-nodejs-openai-chatgpt-langchain-typescript/?couponCode=APR2025) |
-| 8 | [Amazon Bedrock - The Complete Guide to AWS Generative AI](https://www.udemy.com/course/amazon-bedrock-aws-generative-ai/?couponCode=APR2025) |
-| 9 | [Amazon Q Developer for Programmers and DevOps AWS AI coding](https://www.udemy.com/course/amazon-q-developer-aws-ai/?couponCode=APR2025) |
-| 10 | [AWS Amplify Gen 2 and AWS Cognito for Developers-TypeScript](https://www.udemy.com/course/aws-amplify-gen-2-cognito-typescript-react/?couponCode=APR2025) |
-| 10 | [React Testing with Jest / Vitest - TypeScript - 2025](https://www.udemy.com/course/typescript-with-react-jest-testing/?couponCode=APR2025) |
+| 1 | [AWS & Typescript Masterclass - CDK V2, Serverless, React](https://www.udemy.com/course/aws-typescript-cdk-serverless-react/?couponCode=MAY2025) |
+| 2 | [AWS CDK for professionals (Python and TypeScript)](https://www.udemy.com/course/aws-cdk-for-professionals/?couponCode=MAY2025) |
+| 3 | [Unit Testing for Typescript & NodeJs Developers with Jest](https://www.udemy.com/course/unit-testing-typescript-nodejs/?couponCode=MAY2025) |
+| 4 | [TypeScript 5 for developers](https://www.udemy.com/course/typescript-full-stack-programming/?couponCode=MAY2025) |
+| 5 | [Mastering Visual Studio Code](https://www.udemy.com/course/mastering-visual-studio-code/?couponCode=MAY2025) |
+| 6 | [GitHub Copilot - The Complete Guide](https://www.udemy.com/course/github-copilot-the-complete-guide/?couponCode=MAY2025) |
+| 7 | [AI for NodeJs devs: OpenAI, ChatGPT, LangChain](https://www.udemy.com/course/ai-nodejs-openai-chatgpt-langchain-typescript/?couponCode=MAY2025) |
+| 8 | [Amazon Bedrock - The Complete Guide to AWS Generative AI](https://www.udemy.com/course/amazon-bedrock-aws-generative-ai/?couponCode=MAY2025) |
+| 9 | [Amazon Q Developer for Programmers and DevOps AWS AI coding](https://www.udemy.com/course/amazon-q-developer-aws-ai/?couponCode=MAY2025) |
+| 10 | [AWS Amplify Gen 2 and AWS Cognito for Developers-TypeScript](https://www.udemy.com/course/aws-amplify-gen-2-cognito-typescript-react/?couponCode=MAY2025) |
+| 10 | [React Testing with Jest / Vitest - TypeScript - 2025](https://www.udemy.com/course/typescript-with-react-jest-testing/?couponCode=MAY2025) |
 
 
 ## **My Udemy Profile**
