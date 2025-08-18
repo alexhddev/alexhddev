@@ -30,6 +30,7 @@
 | 10 | [AWS Amplify Gen 2 and AWS Cognito for Developers-TypeScript](https://www.udemy.com/course/aws-amplify-gen-2-cognito-typescript-react/?couponCode=JUL2025) |
 | 11 | [React Testing with Jest / Vitest - TypeScript - 2025](https://www.udemy.com/course/typescript-with-react-jest-testing/?couponCode=JUL2025) |
 | 12 | [Vite for developers - 2025](https://www.udemy.com/course/vite-for-devs/?couponCode=JUL2025) |
+| 13 | [Playwright E2E Testing with AI for Beginners – Zero to Hero](https://www.udemy.com/course/playwright-e2e-testing-for-beginners-js-ts/?referralCode=PLAYWRIGHT_LAUNCH) |
 
 
 ## **My Udemy Profile**
