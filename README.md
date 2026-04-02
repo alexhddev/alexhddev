@@ -2,8 +2,8 @@
 
 ## **I'm a Cloud Tech Lead and Udemy instructor.**
  - 💾 I have a Masters degree in Computer science
- - 🛠️ Over 13 years of experience in software engineering
- - 👔 On Udemy, I teach AWS and Web development - TypeScript, Java, React, Software testing
+ - 🛠️ Over 14 years of experience in software engineering
+ - 👔 On Udemy, I teach AWS, Web development and QA - TypeScript, Java, React, Software testing
  - 🎸 In my free time, I like to play the guitar
 
 
@@ -32,6 +32,8 @@
 | 12 | [Vite for developers - 2025](https://www.udemy.com/course/vite-for-devs/?couponCode=IAN2026) |
 | 13 | [Playwright E2E Testing with AI for Beginners – Zero to Hero](https://www.udemy.com/course/playwright-e2e-testing-for-beginners-js-ts/?referralCode=IAN2026) |
 | 14 | [MCP for devs - Master Model Context Protocol - Python/TS](https://www.udemy.com/course/mcp-for-devs-master-model-context-protocol/?couponCode=IAN2026) |
+| 15 | [Storybook Crash Course for developers - React/Vitest](https://www.udemy.com/course/storybook-course/?couponCode=APR2026) |
+| 16 | [Master AI Powered Test Automation - AI Agents, MCPs, LLMs](https://www.udemy.com/course/generative-ai-test-automation/?couponCode=APR2026) |
 
 
 ## **My Udemy Profile**
