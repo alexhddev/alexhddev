@@ -18,22 +18,22 @@
 
 | No  | Course link with discount | 
 | --- | ----------- | 
-| 1 | [AWS & Typescript Masterclass - CDK V2, Serverless, React](https://www.udemy.com/course/aws-typescript-cdk-serverless-react/?couponCode=JUN2026) |
-| 2 | [AWS CDK for professionals (Python and TypeScript)](https://www.udemy.com/course/aws-cdk-for-professionals/?couponCode=JUN2026) |
-| 3 | [Unit Testing for Typescript & NodeJs Developers with Jest](https://www.udemy.com/course/unit-testing-typescript-nodejs/?couponCode=JUN2026) |
-| 4 | [TypeScript 5 for developers](https://www.udemy.com/course/typescript-full-stack-programming/?couponCode=JUN2026) |
-| 5 | [Mastering Visual Studio Code](https://www.udemy.com/course/mastering-visual-studio-code/?couponCode=JUN2026) |
-| 6 | [GitHub Copilot - The Complete Guide](https://www.udemy.com/course/github-copilot-the-complete-guide/?couponCode=JUN2026) |
-| 7 | [AI for NodeJs devs: OpenAI, ChatGPT, LangChain](https://www.udemy.com/course/ai-nodejs-openai-chatgpt-langchain-typescript/?couponCode=JUN2026) |
-| 8 | [Amazon Bedrock - The Complete Guide to AWS Generative AI](https://www.udemy.com/course/amazon-bedrock-aws-generative-ai/?couponCode=JUN2026) |
-| 9 | [Amazon Q Developer for Programmers and DevOps AWS AI coding](https://www.udemy.com/course/amazon-q-developer-aws-ai/?couponCode=JUN2026) |
-| 10 | [AWS Amplify Gen 2 and AWS Cognito for Developers-TypeScript](https://www.udemy.com/course/aws-amplify-gen-2-cognito-typescript-react/?couponCode=JUN2026) |
-| 11 | [React Testing with Jest / Vitest - TypeScript - 2025](https://www.udemy.com/course/typescript-with-react-jest-testing/?couponCode=JUN2026) |
-| 12 | [Vite for developers - 2025](https://www.udemy.com/course/vite-for-devs/?couponCode=JUN2026) |
-| 13 | [Playwright E2E Testing with AI for Beginners – Zero to Hero](https://www.udemy.com/course/playwright-e2e-testing-for-beginners-js-ts/?referralCode=JUN2026) |
-| 14 | [MCP for devs - Master Model Context Protocol - Python/TS](https://www.udemy.com/course/mcp-for-devs-master-model-context-protocol/?couponCode=JUN2026) |
-| 15 | [Storybook Crash Course for developers - React/Vitest](https://www.udemy.com/course/storybook-course/?couponCode=JUN2026) |
-| 16 | [Master AI Powered Test Automation - AI Agents, MCPs, LLMs](https://www.udemy.com/course/generative-ai-test-automation/?couponCode=JUN2026) |
+| 1 | [AWS & Typescript Masterclass - CDK V2, Serverless, React](https://www.udemy.com/course/aws-typescript-cdk-serverless-react/?couponCode=JULY2026) |
+| 2 | [AWS CDK for professionals (Python and TypeScript)](https://www.udemy.com/course/aws-cdk-for-professionals/?couponCode=JULY2026) |
+| 3 | [Unit Testing for Typescript & NodeJs Developers with Jest](https://www.udemy.com/course/unit-testing-typescript-nodejs/?couponCode=JULY2026) |
+| 4 | [TypeScript 5 for developers](https://www.udemy.com/course/typescript-full-stack-programming/?couponCode=JULY2026) |
+| 5 | [Mastering Visual Studio Code](https://www.udemy.com/course/mastering-visual-studio-code/?couponCode=JULY2026) |
+| 6 | [GitHub Copilot - The Complete Guide](https://www.udemy.com/course/github-copilot-the-complete-guide/?couponCode=JULY2026) |
+| 7 | [AI for NodeJs devs: OpenAI, ChatGPT, LangChain](https://www.udemy.com/course/ai-nodejs-openai-chatgpt-langchain-typescript/?couponCode=JULY2026) |
+| 8 | [Amazon Bedrock - The Complete Guide to AWS Generative AI](https://www.udemy.com/course/amazon-bedrock-aws-generative-ai/?couponCode=JULY2026) |
+| 9 | [Amazon Q Developer for Programmers and DevOps AWS AI coding](https://www.udemy.com/course/amazon-q-developer-aws-ai/?couponCode=JULY2026) |
+| 10 | [AWS Amplify Gen 2 and AWS Cognito for Developers-TypeScript](https://www.udemy.com/course/aws-amplify-gen-2-cognito-typescript-react/?couponCode=JULY2026) |
+| 11 | [React Testing with Jest / Vitest - TypeScript - 2025](https://www.udemy.com/course/typescript-with-react-jest-testing/?couponCode=JULY2026) |
+| 12 | [Vite for developers - 2025](https://www.udemy.com/course/vite-for-devs/?couponCode=JULY2026) |
+| 13 | [Playwright E2E Testing with AI for Beginners – Zero to Hero](https://www.udemy.com/course/playwright-e2e-testing-for-beginners-js-ts/?referralCode=JULY2026) |
+| 14 | [MCP for devs - Master Model Context Protocol - Python/TS](https://www.udemy.com/course/mcp-for-devs-master-model-context-protocol/?couponCode=JULY2026) |
+| 15 | [Storybook Crash Course for developers - React/Vitest](https://www.udemy.com/course/storybook-course/?couponCode=JULY2026) |
+| 16 | [Master AI Powered Test Automation - AI Agents, MCPs, LLMs](https://www.udemy.com/course/generative-ai-test-automation/?couponCode=JULY2026) |
 
 
 ## **My Udemy Profile**
